@@ -51,8 +51,9 @@
 1. *Target Setting*: Evaluated realistic vs. ambitious goal-setting strategies.  
 2. *Geographic Analysis*: Identified high-potential vs. stagnant markets.  
 3. *Root Cause Analysis*: Pinpointed drivers of target shortfalls (e.g., product mix, regional demand).  
-
----
+**Files**
+---[Performace vs Target ,,.pdf](https://github.com/user-attachments/files/19262465/Performace.vs.Target.pdf)
+[Customer net sales performance.pdf](https://github.com/user-attachments/files/19262467/Customer.net.sales.performance.pdf)
 
 ## 🚀 Future Enhancements  
 - Build a *Power BI dashboard* for real-time target tracking.  
@@ -60,5 +61,3 @@
 - Incorporate competitor benchmarking data.
 
 -# AtliQ-sales--Market-Performance #DataAnalysis #Data #Excel
-[Performace vs Target ,,.pdf](https://github.com/user-attachments/files/19262465/Performace.vs.Target.pdf)
-[Customer net sales performance.pdf](https://github.com/user-attachments/files/19262467/Customer.net.sales.performance.pdf)
